@@ -1,0 +1,24 @@
+@import "./base.css";
+
+#app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+  
+}
+
+a {
+    text-decoration: none;
+    color:green;
+}
+
+nav a {
+    font-size:12pt;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:green;
+}
